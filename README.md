@@ -18,7 +18,7 @@
    <img align="center" src="https://github.com/user-attachments/assets/33bfdeb5-29ec-4e4f-997b-e1e9a40ef0ef" width="300">
 
   <br>
-  <p align="center"> he/him ⊹ ࣪ ˖ </p>
+  <p align="center"> he/him </p>
   <p align="center"> iwcare please </p>
 
 
