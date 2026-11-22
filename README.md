@@ -35,7 +35,6 @@
 <br><br><br><br>
 <br><br><br><br><br><br>
 
- <p align="center"> ╋━────────────────────────────────────────────────━━━╋ </p> 
 
 <div align="center">
   <details>
