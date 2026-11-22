@@ -26,19 +26,3 @@
 
 </p>
 </div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br><br><br><br>
-<br><br><br><br><br><br>
-
-
-<div align="center">
-  <details>
-    <summary>credits</summary>
-    <p> <p align="center"> art credits TBA </p>
-  </details>
-</div>
